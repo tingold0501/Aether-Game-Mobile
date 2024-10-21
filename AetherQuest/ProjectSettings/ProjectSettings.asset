@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 7cc57006b3d3a4630bcec165af2e6cd2
+  productGUID: 437d60d5e20be4954827e57a8fa34d0c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -747,12 +747,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 2
+  activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 9329ab20-9361-4b86-8b65-5076f84a9b30
+  cloudProjectId: 940ab163-0607-471c-8b21-feb234dd6412
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: AetherQuest 2024-10-06_18-20-12
+  projectName: AetherQuest 2024-10-15_21-39-00
   organizationId: huynhtin0501
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
