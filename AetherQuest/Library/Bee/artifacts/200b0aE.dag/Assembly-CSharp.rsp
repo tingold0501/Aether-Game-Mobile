@@ -361,6 +361,7 @@
 "Assets/DoubleL/Demo/DemoCameraController.cs"
 "Assets/Scripts/Characters/Player/AbtractClass/Player.cs"
 "Assets/Scripts/Characters/Player/ControllerClass/MoveController.cs"
+"Assets/Scripts/Characters/Player/PlayerMovement.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
